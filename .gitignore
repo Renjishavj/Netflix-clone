@@ -6,7 +6,7 @@
 .pnp.js
 /Constants
 # testing
-/coverage
+.src/Constants
 
 # production
 /build
