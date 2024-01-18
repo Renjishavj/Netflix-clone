@@ -6,7 +6,7 @@
 .pnp.js
 /Constants
 # testing
-.src/Constants
+/src/Constants
 
 # production
 /build
